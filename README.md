@@ -1,3 +1,8 @@
+## Usage
+
+1. `cd app && ng serve`
+2. `cd server && npm run dev`
+
 TODO:
 
 - add docker files
