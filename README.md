@@ -1,9 +1,5 @@
 TODO:
 
-- add npm run commands
-- create post-install scripts
-- add .env
-- build angular to dist
 - add docker files
 - add linting
 - convert to typescript
