@@ -1,0 +1,20 @@
+{
+  "name": "mean_skeleton",
+  "version": "1.0.0",
+  "description": "MEAN Skeleton - starting point for a new app (angular 9)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cross-env": "^7.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
